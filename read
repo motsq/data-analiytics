@@ -1,0 +1,53 @@
+🐈 Gen Cat Kripto NFT Collection
+Proyek Akhir #14DaysOfLearning Co-Learning Camp 5
+Ini adalah repositori proyek akhir yang dibuat sebagai bagian dari kampanye belajar intensif 14 hari Web3. Koleksi Gen Cat Kripto adalah proyek NFT sederhana yang disebarkan di jaringan Ethereum Testnet (Sepolia) menggunakan standar token ERC-721.
+🌟 Tentang Proyek
+Proyek ini bertujuan untuk menguji dan menerapkan pemahaman tentang:
+Smart Contract: Menulis dan menguji kontrak ERC-721 menggunakan Solidity.
+Deployment: Menyebarkan kontrak ke jaringan Ethereum (Testnet).
+Metadata NFT: Menghubungkan smart contract dengan metadata unik untuk setiap trait Gen Cat.
+🛠️ Teknologi yang Digunakan
+Kategori
+Teknologi/Bahasa
+Tujuan
+Blockchain
+Ethereum (Sepolia Testnet)
+Jaringan deployment
+Bahasa Kontrak
+Solidity
+Bahasa pemrograman smart contract
+Standar Token
+ERC-721 (NFT)
+Standar untuk koleksi digital
+Tools Deployment
+Truffle / Hardhat / Remix (tergantung pilihan akhir)
+Kompilasi & penyebaran kontrak
+Wallet
+MetaMask
+Interaksi dan transaksi deployment
+
+🚀 Status Peluncuran (Hari 14)
+Kontrak untuk koleksi Gen Cat Kripto telah berhasil disebarkan di Ethereum Testnet (Sepolia).
+Aktivitas
+Status
+Catatan
+Smart Contract (ERC-721)
+✅ Deployed
+Kontrak sudah live di Sepolia.
+Metadata
+✅ Integrated
+Metadata JSON terhubung dengan URI.
+Minting Uji Coba
+✅ Successful
+Uji coba pencetakan NFT sukses.
+
+🧠 Pembelajaran Utama Selama 14 Hari
+Perjalanan ini memberikan tiga wawasan utama:
+NFT adalah Interaksi Data: NFT adalah kombinasi dari kode di Smart Contract (logika kepemilikan) dan Metadata (deskripsi visual/sifat).
+Pentingnya Gas Fee: Memahami cara kerja Gas Fee dan pentingnya optimasi kode Smart Contract untuk efisiensi biaya.
+Ekosistem yang Kuat: Ketersediaan tools dan komunitas (seperti Etherscan, Truffle, Hardhat, dan Co-Learning Camp) membuat proses belajar dan deployment dapat dilakukan dalam waktu singkat.
+⏭️ Langkah Selanjutnya (Roadmap)
+Integrasi dengan User Interface (Frontend) sederhana untuk minting publik (di Testnet).
+Eksplorasi fungsionalitas tambahan pada kontrak, seperti fitur burning atau staking (ERC-721A).
+Dokumentasi mendalam mengenai kode Solidity yang digunakan.
+Dibuat oleh: irawan Program: #14DaysOfLearning Co-Learning Camp 5 Mentor/Komunitas: @HackQuest_ID @verestraa
